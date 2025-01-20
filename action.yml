@@ -1,4 +1,4 @@
-name: 'Target Hello World V1'
+name: 'Target Hello World V2'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
